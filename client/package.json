@@ -41,7 +41,7 @@
         "react-idle-timer": "^4.4.1",
         "react-modal": "^3.11.2",
         "react-redux": "6.0.1",
-        "react-router-dom": "^5.2.1",
+        "react-router-dom": "^6.30.2",
         "react-transition-group": "2.7.1",
         "redux-saga": "0.15.6",
         "source-map-loader": "0.2.1",
